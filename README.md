@@ -1,5 +1,5 @@
 # record-project
-A.	프로젝트 명: record site server
+A.	프로젝트 명: record site server 
 B.	프로젝트 멤버 이름 및 멤버 별로 담당한 파트에 대한 소개: 강민정 
 C.	프로젝트 소개 및 개발 내용 소개 
 - TCP 통신을 하는 인터넷 도메인 소켓 통신을 사용하여 음반 사이트 서버(record sever)를
